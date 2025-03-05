@@ -14,12 +14,7 @@
 1. **Ad Verification:**  
    When your token expires, you'll see a prompt similar to:
 
-   ❗ Your ad verification has expired.
-   👋 Hey!
-   🔗 Please complete the ad verification by visiting this link: 
-    https://tpshortlinks.site/BbfcZM1C
-   ⏰ Token Timeout: 12 hours
-   ℹ️ Ad verification tutorial: https://t.me/tpbots_tutorials
+   ❗ Your ad verification has expired. Please complete the ad verification.
 
 2. **Get Your Token:**  
 Click the ad verification link and follow the instructions provided. Once verified, you'll receive a token valid for 12 hours.
